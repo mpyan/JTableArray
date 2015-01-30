@@ -3,7 +3,7 @@ public class demo {
 
 	public static void main(String[] args) {
 		System.out.println("Demo");
-		TableArray demoTable = new TableArray(6); // 6 column TableArray
+		JTableArray demoTable = new JTableArray(6); // 6 column TableArray
 		
 		demoTable.pushRow(1, 2, 3, 4, 5, 6);
 		demoTable.pushRow(7, 8, 9, 10, 11, 12);

@@ -4,7 +4,7 @@ import java.util.Comparator;
 
 /**
  * This class is used to store a 2D table of values
- * @author mpyan
+ * @author Mark Yan
  *
  */
 public class JTableArray {
